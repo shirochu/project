@@ -26,14 +26,13 @@ public class QuestionLibrary {
             {"lastig", "leuk", "te doen", "the only way"},
             {"Internet Service Provider", "Internal Storage Partition", "International Storage Provide", "Internal Storage Provider"},
             {"1 kb", "1 mb", ">1 kb", "<1 kb"},
-            {"Binary Data", "Binary Digit", "Binary Information Trackker", "Geen van deze"},
             {"Have you tried turning it off an on again?", "Have you tried turning it off an on again?", "Have you tried turning it off an on again?", "Have you tried turning it off an on again?"},
             {"Local Assisted Network", "Lucky Answer Noob", "Local Area Network", "Lucky Ass Noob"},
             {"Het verwijderen van virussen","Het buitenhouden van hackers", "Een deel van de computer dat beschermen tegen overheaten", "Geen van deze"},
             {"1945", "1965", "1943", "1953"}
     };
-    private String mCorrectAnswers [] = {"Een mot","Hout","5 mb","In zijn garage","The dirty dozen","jou",
-            "Internet Service Provider","<1 kb","Binary Digit","Have you tried turning it off an on again?","Local Area Network",
+    private String mCorrectAnswers [] = {"Een mot","Hout","5 mb","In zijn garage","The dirty dozen","jou","the only way",
+            "Internet Service Provider","<1 kb","Have you tried turning it off an on again?","Local Area Network",
             "Het buitenhouden van hackers","1943"};
 
 

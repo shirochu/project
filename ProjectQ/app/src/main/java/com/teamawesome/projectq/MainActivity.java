@@ -13,11 +13,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Button ictBtn = (Button)findViewById(R.id.ictBtn);
-        ictBtn.setOnClickListener(new View.OnClickListener(){
+        Button quizBtn = (Button)findViewById(R.id.quizBtn);
+        quizBtn.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
-                Intent startIntent = new Intent(getApplicationContext(), HBOICT.class);
+                Intent startIntent = new Intent(getApplicationContext(), Test.class);
                 // show how to pass information to another activity
                 startActivity(startIntent);
             }

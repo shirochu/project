@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\shirochu\\Desktop\\ProjectQ-20170920T091710Z-001\\ProjectQ\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
-        "source": "C:\\Users\\shirochu\\Desktop\\ProjectQ-20170920T091710Z-001\\ProjectQ\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\shirochu\\project\\ProjectQ\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\shirochu\\project\\ProjectQ\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\shirochu\\Desktop\\ProjectQ-20170920T091710Z-001\\ProjectQ\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\shirochu\\Desktop\\ProjectQ-20170920T091710Z-001\\ProjectQ\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\shirochu\\project\\ProjectQ\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\shirochu\\project\\ProjectQ\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     }
 ]

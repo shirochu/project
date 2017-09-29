@@ -12,14 +12,14 @@
         android:layout_height="wrap_content"
         android:text="Button"
         app:layout_constraintBottom_toBottomOf="parent"
-        android:layout_marginBottom="42dp"
+        android:layout_marginBottom="43dp"
         app:layout_constraintRight_toLeftOf="@+id/button2"
         android:layout_marginRight="8dp"
         android:layout_marginLeft="8dp"
         app:layout_constraintLeft_toLeftOf="parent"
         android:layout_marginStart="8dp"
         android:layout_marginEnd="8dp"
-        app:layout_constraintHorizontal_bias="0.543" />
+        app:layout_constraintHorizontal_bias="0.564" />
 
     <Button
         android:id="@+id/button2"
@@ -38,20 +38,24 @@
         android:layout_height="wrap_content"
         android:text="Button"
         app:layout_constraintBottom_toBottomOf="parent"
-        android:layout_marginBottom="42dp"
+        android:layout_marginBottom="44dp"
         app:layout_constraintLeft_toRightOf="@+id/button2"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         app:layout_constraintRight_toRightOf="parent"
         android:layout_marginStart="8dp"
         android:layout_marginEnd="8dp"
-        app:layout_constraintHorizontal_bias="0.551" />
+        app:layout_constraintHorizontal_bias="0.371" />
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="217dp"
-        android:layout_height="321dp"
-        android:text="TextView"
-        tools:layout_editor_absoluteX="97dp"
-        tools:layout_editor_absoluteY="63dp" />
+        android:layout_width="374dp"
+        android:layout_height="255dp"
+        android:text="Business, IT en Management (BIM)
+
+Bij BIM word je opgeleid tot een specialist die iets weet van organisaties, het gebruik van IT en de behoefte van de gebruikers.  Deze kennis gebruik je om de wensen van de organisatie samen te voegen met de wensen van de eindgebruikers op vlak van IT. Je gaat niet zelf de dingen bouwen maar jij zorgt voor alle benodigde informatie en draagt dit over aan de specialisten die het bouwen. In feite zorg jij er dus voor dat IT jargon word vertaald naar een begrijpelijke taal voor organisaties!
+Doordat er een grote opmars is van technologie in organisaties, is bijna iedere organisatie opzoek naar een specialist die verstand heeft van IT.
+"
+        tools:layout_editor_absoluteX="18dp"
+        tools:layout_editor_absoluteY="16dp" />
 </android.support.constraint.ConstraintLayout>

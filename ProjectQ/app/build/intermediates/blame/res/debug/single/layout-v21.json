@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\shirochu\\Desktop\\ProjectQ-20170920T091710Z-001\\ProjectQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "merged": "C:\\Users\\shirochu\\project\\ProjectQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
         "source": "C:\\Users\\shirochu\\.android\\build-cache\\6802dac411b27cfc9e60fe8578b078c772e0a659\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\shirochu\\Desktop\\ProjectQ-20170920T091710Z-001\\ProjectQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\shirochu\\.android\\build-cache\\6802dac411b27cfc9e60fe8578b078c772e0a659\\output\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "C:\\Users\\shirochu\\Desktop\\ProjectQ-20170920T091710Z-001\\ProjectQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "merged": "C:\\Users\\shirochu\\project\\ProjectQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
         "source": "C:\\Users\\shirochu\\.android\\build-cache\\6802dac411b27cfc9e60fe8578b078c772e0a659\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\shirochu\\Desktop\\ProjectQ-20170920T091710Z-001\\ProjectQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "merged": "C:\\Users\\shirochu\\project\\ProjectQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\shirochu\\.android\\build-cache\\6802dac411b27cfc9e60fe8578b078c772e0a659\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\shirochu\\project\\ProjectQ\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
         "source": "C:\\Users\\shirochu\\.android\\build-cache\\6802dac411b27cfc9e60fe8578b078c772e0a659\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     }
 ]

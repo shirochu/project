@@ -1,7 +1,0 @@
-#Wed Sep 20 12:19:16 CEST 2017
-base.0=C\:\\Users\\shirochu\\Desktop\\ProjectQ-20170920T091710Z-001\\ProjectQ\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9c53388f48dbce6839163273110cd62515ca3448
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\shirochu\\Desktop\\ProjectQ-20170920T091710Z-001\\ProjectQ\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_267037fa7c62fa3c7ad09049081019d3232f27c3\\classes.dex
-base.1=C\:\\Users\\shirochu\\Desktop\\ProjectQ-20170920T091710Z-001\\ProjectQ\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_267037fa7c62fa3c7ad09049081019d3232f27c3
-file.0=C\:\\Users\\shirochu\\Desktop\\ProjectQ-20170920T091710Z-001\\ProjectQ\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9c53388f48dbce6839163273110cd62515ca3448\\classes.dex

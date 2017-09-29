@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\shirochu\\Desktop\\ProjectQ-20170920T091710Z-001\\ProjectQ\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\shirochu\\.android\\build-cache\\6802dac411b27cfc9e60fe8578b078c772e0a659\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "C:\\Users\\shirochu\\project\\ProjectQ\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\shirochu\\.android\\build-cache\\6802dac411b27cfc9e60fe8578b078c772e0a659\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\shirochu\\Desktop\\ProjectQ-20170920T091710Z-001\\ProjectQ\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\shirochu\\.android\\build-cache\\6802dac411b27cfc9e60fe8578b078c772e0a659\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "C:\\Users\\shirochu\\project\\ProjectQ\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\shirochu\\.android\\build-cache\\6802dac411b27cfc9e60fe8578b078c772e0a659\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     }
 ]

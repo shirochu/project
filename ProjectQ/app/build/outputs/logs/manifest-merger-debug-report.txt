@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:2:1-29:12
+ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:2:1-29:12
 	package
-		ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:3:5-39
-		INJECTED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:5:5-27:19
+ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:5:5-27:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\shirochu\.android\build-cache\4639a23b840ce364fe5ee0d5bbb6c464509d3e11\output\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:25.3.1] C:\Users\shirochu\.android\build-cache\78c32938e5a68ae74ef0a51ba7bd7aa63a172575\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\shirochu\.android\build-cache\6802dac411b27cfc9e60fe8578b078c772e0a659\output\AndroidManifest.xml:29:5-20
@@ -28,57 +28,57 @@ MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\shirochu\.andr
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\shirochu\.android\build-cache\cc300a2a2a7f12453a18abf19105d2b68e0e50ea\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\shirochu\.android\build-cache\9caf8adae8ffc84a3ea35b1548f077480037bc2c\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:10:9-35
 	android:roundIcon
-		ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:9:9-54
 	android:allowBackup
-		ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.teamawesome.projectq.MainActivity
-ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:12:9-21:20
+ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:12:9-21:20
 	android:label
-		ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:14:13-45
+		ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:14:13-45
 	android:theme
-		ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:15:13-56
+		ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:15:13-56
 	android:name
-		ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:13:13-41
+		ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:13:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:19:27-74
 activity#com.teamawesome.projectq.HBOICT
-ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:22:9-44
+ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:22:9-44
 	android:name
-		ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:22:19-41
+		ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:22:19-41
 activity#com.teamawesome.projectq.Business
-ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:23:9-46
+ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:23:9-46
 	android:name
-		ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:23:19-43
+		ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:23:19-43
 activity#com.teamawesome.projectq.ITSM
-ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:24:9-42
+ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:24:9-42
 	android:name
-		ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:24:19-39
+		ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:24:19-39
 activity#com.teamawesome.projectq.SoftwareEngineering
-ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:25:9-57
+ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:25:9-57
 	android:name
-		ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:25:19-54
+		ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:25:19-54
 activity#com.teamawesome.projectq.Test
-ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:26:9-51
+ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:26:9-51
 	android:name
-		ADDED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml:26:19-39
+		ADDED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml:26:19-39
 uses-sdk
-INJECTED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\shirochu\.android\build-cache\4639a23b840ce364fe5ee0d5bbb6c464509d3e11\output\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:design:25.3.1] C:\Users\shirochu\.android\build-cache\78c32938e5a68ae74ef0a51ba7bd7aa63a172575\output\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\shirochu\.android\build-cache\6802dac411b27cfc9e60fe8578b078c772e0a659\output\AndroidManifest.xml:21:5-23:78
@@ -95,11 +95,11 @@ MERGED from [com.android.support:support-compat:25.3.1] C:\Users\shirochu\.andro
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.3.1] C:\Users\shirochu\.android\build-cache\78c32938e5a68ae74ef0a51ba7bd7aa63a172575\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\shirochu\Desktop\ProjectQ-20170920T091710Z-001\ProjectQ\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shirochu\project\ProjectQ\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:25.3.1] C:\Users\shirochu\.android\build-cache\78c32938e5a68ae74ef0a51ba7bd7aa63a172575\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\shirochu\.android\build-cache\6802dac411b27cfc9e60fe8578b078c772e0a659\output\AndroidManifest.xml:25:5-27:34

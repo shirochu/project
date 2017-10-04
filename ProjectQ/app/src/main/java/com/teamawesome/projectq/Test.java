@@ -100,16 +100,24 @@ public class Test extends AppCompatActivity {
             }
         });
     }
-    private void updateQuestion(){
-        mQuestionView.setText(mQuestionLibrary.getQuestion(mQuestionNumber));
-        mButtonchoice1.setText(mQuestionLibrary.getChoice1(mQuestionNumber));
-        mButtonchoice2.setText(mQuestionLibrary.getChoice2(mQuestionNumber));
-        mButtonchoice3.setText(mQuestionLibrary.getChoice3(mQuestionNumber));
-        mButtonchoice4.setText(mQuestionLibrary.getChoice4(mQuestionNumber));
+        private void updateQuestion(){
+        // check of de vragen op zijn
+        if(mQuestionNumber<14){
+            // nieuwe vragen
+            mQuestionView.setText(mQuestionLibrary.getQuestion(mQuestionNumber));
+            mButtonchoice1.setText(mQuestionLibrary.getChoice1(mQuestionNumber));
+            mButtonchoice2.setText(mQuestionLibrary.getChoice2(mQuestionNumber));
+            mButtonchoice3.setText(mQuestionLibrary.getChoice3(mQuestionNumber));
+            mButtonchoice4.setText(mQuestionLibrary.getChoice4(mQuestionNumber));
 
-        mAnswer = mQuestionLibrary.getCorrectAnswer(mQuestionNumber);
-        mQuestionNumber++;
-
+            mAnswer = mQuestionLibrary.getCorrectAnswer(mQuestionNumber);
+            mQuestionNumber++;
+        }
+        else {
+            Toast.makeText(Test.this, "Klaar", Toast.LENGTH_SHORT).show();
+            Intent intent = new Intent(Test.this, HBOICT.class);
+            startActivity(intent);
+        }
 
     }
     private void updateScore(int point) {

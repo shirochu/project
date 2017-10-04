@@ -102,7 +102,7 @@ public class Test extends AppCompatActivity {
     }
         private void updateQuestion(){
         // check of de vragen op zijn
-        if(mQuestionNumber<14){
+        if(mQuestionNumber<13){
             // nieuwe vragen
             mQuestionView.setText(mQuestionLibrary.getQuestion(mQuestionNumber));
             mButtonchoice1.setText(mQuestionLibrary.getChoice1(mQuestionNumber));

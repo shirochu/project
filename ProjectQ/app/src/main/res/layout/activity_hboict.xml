@@ -29,7 +29,7 @@
         app:layout_constraintRight_toRightOf="parent" />
 
     <Button
-        android:id="@+id/businessBtn"
+        android:id="@+id/busBtn"
         android:layout_width="92dp"
         android:layout_height="54dp"
         android:text="Business"

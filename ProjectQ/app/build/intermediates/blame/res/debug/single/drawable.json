@@ -40,6 +40,10 @@
         "source": "C:\\Users\\shirochu\\.android\\build-cache\\78c32938e5a68ae74ef0a51ba7bd7aa63a172575\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
+        "merged": "C:\\Users\\shirochu\\project\\ProjectQ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\saxion.png",
+        "source": "C:\\Users\\shirochu\\project\\ProjectQ\\app\\src\\main\\res\\drawable\\saxion.png"
+    },
+    {
         "merged": "C:\\Users\\shirochu\\project\\ProjectQ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "C:\\Users\\shirochu\\.android\\build-cache\\6802dac411b27cfc9e60fe8578b078c772e0a659\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },

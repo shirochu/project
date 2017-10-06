@@ -13,7 +13,7 @@ public class HBOICT extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hboict);
 
-        Button navBusiness = (Button) findViewById(R.id.busBTN);
+        Button navBusiness = (Button) findViewById(R.id.busBtn);
         Button navITSM = (Button) findViewById(R.id.itsmBtn);
         Button navSE = (Button) findViewById(R.id.seBtn);
 

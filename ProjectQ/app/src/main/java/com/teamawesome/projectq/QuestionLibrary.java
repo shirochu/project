@@ -32,7 +32,7 @@ public class QuestionLibrary {
             {"1945", "1965", "1943", "1953"}
     };
     private String mCorrectAnswers [] = {"Een mot","Hout","5 mb","In zijn garage","The dirty dozen","jou","the only way",
-            "Internet Service Provider","<1 kb","Have you tried turning it off an on again?","Local Area Network",
+            "Internet Service Provider","1 kb","Have you tried turning it off an on again?","Local Area Network",
             "Het buitenhouden van hackers","1943"};
 
 

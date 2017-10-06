@@ -29,11 +29,7 @@
         app:layout_constraintRight_toRightOf="parent" />
 
     <Button
-<<<<<<< HEAD
         android:id="@+id/busBtn"
-=======
-        android:id="@+id/busBTN"
->>>>>>> 882fdd8e29f46b2c62f1f933c7da743c2795af03
         android:layout_width="92dp"
         android:layout_height="54dp"
         android:layout_marginLeft="8dp"

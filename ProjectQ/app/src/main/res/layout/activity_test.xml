@@ -44,7 +44,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="ja"
+        android:text="Probably not"
         android:background="#0091EA"
         android:textColor="#fff"
         android:padding="8dp"

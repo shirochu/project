@@ -12,6 +12,7 @@ public class Business extends AppCompatActivity {
 
 
     private Button mjobBTN1;
+    private Button mjobBTN2;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -19,11 +20,20 @@ public class Business extends AppCompatActivity {
 
 
         mjobBTN1 = (Button) findViewById(R.id.jobBTN1);
+        mjobBTN2 = (Button) findViewById(R.id.jobBTN2);
 
         mjobBTN1.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
                 Intent intent1 = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.youtube.com/watch?v=ta2sOtfZAZg"));
+                startActivity(intent1);
+            }
+        });
+
+        mjobBTN2.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v){
+                Intent intent1 = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.youtube.com/watch?v=qZ8M8X5zdDg"));
                 startActivity(intent1);
             }
         });

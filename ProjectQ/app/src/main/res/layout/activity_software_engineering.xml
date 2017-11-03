@@ -22,7 +22,7 @@ Op deze manier zal je later iemand kunnen vertellen wat de app doet zonder te di
 "
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.361"
+        app:layout_constraintVertical_bias="0.357"
         android:layout_marginLeft="8dp"
         app:layout_constraintLeft_toLeftOf="parent"
         android:layout_marginRight="8dp"
@@ -37,7 +37,7 @@ Op deze manier zal je later iemand kunnen vertellen wat de app doet zonder te di
         android:layout_marginLeft="69dp"
         android:layout_marginTop="8dp"
         android:backgroundTint="@color/SaxGreen"
-        android:text="Filmpje"
+        android:text="Beroepsbeeld SE"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/seTxt"
@@ -52,13 +52,13 @@ Op deze manier zal je later iemand kunnen vertellen wat de app doet zonder te di
         android:layout_marginRight="8dp"
         android:layout_marginTop="8dp"
         android:backgroundTint="@color/SaxGreen"
-        android:text="Filmpje"
+        android:text="interview"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.576"
+        app:layout_constraintHorizontal_bias="0.594"
         app:layout_constraintLeft_toRightOf="@+id/jobBTN1"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/seTxt"
-        app:layout_constraintVertical_bias="0.703" />
+        app:layout_constraintVertical_bias="0.694" />
 
     <TextView
         android:layout_width="326dp"

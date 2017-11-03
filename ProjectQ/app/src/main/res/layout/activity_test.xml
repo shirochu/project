@@ -1,84 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/activity_"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    tools:context="com.teamawesome.projectq.Test">
+    tools:context="com.teamawesome.projectq.SoftwareEngineering">
 
-    <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:padding="8dp"
-        android:layout_marginBottom="40dp">
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Score"
-            android:textSize="20sp"
-            android:layout_alignParentLeft="true"
-            android:id="@+id/score_text"/>
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/score"
-            android:layout_alignParentRight="true"
-            android:text="0"
-            android:textSize="20sp"/>
-
-    </RelativeLayout>
 
     <TextView
-        android:layout_width="match_parent"
-        android:layout_height="70dp"
-        android:text="Ben jij klaar voor een toekomst in de IT?"
-        android:textSize="20sp"
-        android:padding="8dp"
-        android:layout_marginBottom="40dp"
-        android:id="@+id/question"/>
+        android:id="@+id/seTxt"
+        android:layout_width="367dp"
+        android:layout_height="404dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Hou jij van het maken van applicaties of computerprogramma’s? Of ben je geïnteresseerd dit te leren? Dan is de opleiding software-engineering de juiste richting voor je. Als je voor deze opleiding kiest ga je de volledige ins-and-outs leren van dit aspect in de ICT wereld. Je begint met het kennis maken van programmeren hoe je een programma iets kunt laten doen doormiddel van een kennismakingsprogramma. In een latere stadion krijg je te maken met de codes zelf waardoor je je eigen programma’s / applicaties / scripts etc. kunt gaan maken. Dit zullen op verschillende platformen zijn omtrent de programmeertaal maar ook op welk besturingssysteem dit zal moeten draaien. Voor programmeertalen denk aan C++, Java, JScript en Python en er zijn er nog veel meer.  Omtrent de besturingssystemen denk aan Windows, Linux, iOS en nog meer.
 
-
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Probably not"
-        android:background="#0091EA"
-        android:textColor="#fff"
-        android:padding="8dp"
-        android:layout_marginBottom="24dp"
-        android:id="@+id/choice1"/>
-
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="nee"
-        android:background="#0091EA"
-        android:textColor="#fff"
-        android:padding="8dp"
-        android:layout_marginBottom="24dp"
-        android:id="@+id/choice2"/>
+Hier zal je leren omgaan met het verwoorden van technische aspecten over naar business aspecten.
+Op deze manier zal je later iemand kunnen vertellen wat de app/programma doet/zal doen/moet doen zonder te diep in de technische vaktermen over te gaan.
+"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.551"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent" />
 
     <Button
-        android:layout_width="match_parent"
+        android:id="@+id/jobBTN1"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="uhm"
-        android:background="#0091EA"
-        android:textColor="#fff"
-        android:padding="8dp"
-        android:layout_marginBottom="24dp"
-        android:id="@+id/choice3"/>
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="69dp"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="@color/SaxGreen"
+        android:text="Filmpje"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/seTxt"
+        app:layout_constraintVertical_bias="0.703" />
 
     <Button
-        android:layout_width="match_parent"
+        android:id="@+id/jobBTN2"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="misschien"
-        android:background="#0091EA"
-        android:textColor="#fff"
-        android:padding="8dp"
-        android:layout_marginBottom="24dp"
-        android:id="@+id/choice4"/>
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="@color/SaxGreen"
+        android:text="Filmpje"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.576"
+        app:layout_constraintLeft_toRightOf="@+id/jobBTN1"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/seTxt"
+        app:layout_constraintVertical_bias="0.703" />
 
-</LinearLayout>
+    <TextView
+        android:layout_width="326dp"
+        android:layout_height="52dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:text="Software Engineering"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        app:layout_constraintBottom_toTopOf="@+id/seTxt"
+        app:layout_constraintHorizontal_bias="0.505"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:text="Software Engineering" />
+</android.support.constraint.ConstraintLayout>

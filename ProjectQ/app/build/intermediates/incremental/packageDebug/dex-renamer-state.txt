@@ -1,4 +1,4 @@
-#Fri Nov 03 12:56:04 CET 2017
+#Fri Nov 03 14:27:25 CET 2017
 base.0=C\:\\Users\\shirochu\\project\\ProjectQ\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0ce94b8d2be27b87de1c3d627dc53f6b2585c80d
 renamed.1=classes2.dex
 renamed.0=classes.dex

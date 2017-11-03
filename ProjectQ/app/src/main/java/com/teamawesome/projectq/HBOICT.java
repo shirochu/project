@@ -1,12 +1,3 @@
-package com.teamawesome.projectq;
-
-import android.content.Intent;
-import android.net.Uri;
-import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
-import android.view.View;
-import android.widget.Button;
-
 public class HBOICT extends AppCompatActivity {
 
     @Override
@@ -18,6 +9,9 @@ public class HBOICT extends AppCompatActivity {
         Button navITSM = (Button) findViewById(R.id.itsmBtn);
         Button navSE = (Button) findViewById(R.id.seBtn);
         Button navSAX = (Button) findViewById(R.id.saxionBtn);
+        Button Site1 = (Button) findViewById(R.id.Site1);
+        Button Site2 = (Button) findViewById(R.id.Site2);
+
 
         // functie knop Business
         navBusiness.setOnClickListener(new View.OnClickListener() {
@@ -49,13 +43,31 @@ public class HBOICT extends AppCompatActivity {
             }
         });
 
-        // functie knop SE
+        // functie knop Sax
         navSAX.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) {
+            public void onClick(View view) {
                 Intent intent4 = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.saxion.nl/studeren/kiezen_en_kennismaken/Studiekiezer/act/hbo-ict/hbo-ict/"));
                 startActivity(intent4);
             }
         });
+
+        Site1.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v){
+                Intent intent5 = new Intent(Intent.ACTION_VIEW, Uri.parse("http://vanbeers.ddns.net/saxion/posb/index.html" ));
+                startActivity(intent5);
+            }
+        });
+
+        Site2.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v){
+                Intent intent6 = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.hbo-ict.tk/" ));
+                startActivity(intent6);
+            }
+        });
+
+
     }
 }

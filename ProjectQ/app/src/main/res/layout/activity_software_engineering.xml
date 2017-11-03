@@ -10,22 +10,24 @@
 
     <TextView
         android:id="@+id/seTxt"
-        android:layout_width="367dp"
-        android:layout_height="404dp"
+        android:layout_width="338dp"
+        android:layout_height="352dp"
         android:layout_marginBottom="8dp"
         android:layout_marginTop="8dp"
-        android:text="Hou jij van het maken van applicaties of computerprogramma’s? Of ben je geïnteresseerd dit te leren? Dan is de opleiding software-engineering de juiste richting voor je. Als je voor deze opleiding kiest ga je de volledige ins-and-outs leren van dit aspect in de ICT wereld. Je begint met het kennis maken van programmeren hoe je een programma iets kunt laten doen doormiddel van een kennismakingsprogramma. In een latere stadion krijg je te maken met de codes zelf waardoor je je eigen programma’s / applicaties / scripts etc. kunt gaan maken. Dit zullen op verschillende platformen zijn omtrent de programmeertaal maar ook op welk besturingssysteem dit zal moeten draaien. Voor programmeertalen denk aan C++, Java, JScript en Python en er zijn er nog veel meer.  Omtrent de besturingssystemen denk aan Windows, Linux, iOS en nog meer.
+        android:text="Hou jij van het maken van applicaties? Of ben je geïnteresseerd om dit te leren? Dan is de opleiding software-engineering misschien wel wat voor jou. Als je voor deze opleiding kiest ga je de volledige ins-and-outs leren van dit aspect in de ICT wereld. Je begint met een kennismakingsprogramma zodat je de basis kent.
+ In een latere stadium krijg je te maken met de codes zelf waardoor je je eigen programma’s kunt gaan maken. Je leert verschillende programmeertalen denk aan C++, Java, JScript en Python en er zijn er nog veel meer. Ook leer je over de besturingssystemen denk aan Windows, Linux, iOS.
 
-Hier zal je leren omgaan met het verwoorden van technische aspecten over naar business aspecten.
-Op deze manier zal je later iemand kunnen vertellen wat de app/programma doet/zal doen/moet doen zonder te diep in de technische vaktermen over te gaan.
+Hier leer je omgaan met het verwoorden van technische aspecten naar begrijpelijke taal voor de gewone gebruiker.
+Op deze manier zal je later iemand kunnen vertellen wat de app doet zonder te diep in de technische vaktermen over te gaan.
 "
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.551"
+        app:layout_constraintVertical_bias="0.361"
         android:layout_marginLeft="8dp"
         app:layout_constraintLeft_toLeftOf="parent"
         android:layout_marginRight="8dp"
-        app:layout_constraintRight_toRightOf="parent" />
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintHorizontal_bias="0.491" />
 
     <Button
         android:id="@+id/jobBTN1"
@@ -61,13 +63,13 @@ Op deze manier zal je later iemand kunnen vertellen wat de app/programma doet/za
     <TextView
         android:layout_width="326dp"
         android:layout_height="52dp"
-        android:layout_marginBottom="8dp"
+        android:layout_marginBottom="24dp"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:text="Software Engineering"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         app:layout_constraintBottom_toTopOf="@+id/seTxt"
-        app:layout_constraintHorizontal_bias="0.505"
+        app:layout_constraintHorizontal_bias="0.492"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         tools:text="Software Engineering" />

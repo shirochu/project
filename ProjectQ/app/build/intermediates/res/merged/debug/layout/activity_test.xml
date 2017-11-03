@@ -42,43 +42,47 @@
 
 
     <Button
+        android:id="@+id/choice1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:background="#0091EA"
+        android:backgroundTint="@color/SaxGreen"
+        android:padding="8dp"
         android:text="Probably not"
-        android:background="#0091EA"
-        android:textColor="#fff"
-        android:padding="8dp"
-        android:layout_marginBottom="24dp"
-        android:id="@+id/choice1"/>
+        android:textColor="#fff" />
 
     <Button
+        android:id="@+id/choice2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:background="#0091EA"
+        android:backgroundTint="@color/SaxGreen"
+        android:padding="8dp"
         android:text="nee"
-        android:background="#0091EA"
-        android:textColor="#fff"
-        android:padding="8dp"
-        android:layout_marginBottom="24dp"
-        android:id="@+id/choice2"/>
+        android:textColor="#fff" />
 
     <Button
+        android:id="@+id/choice3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:background="#0091EA"
+        android:backgroundTint="@color/SaxGreen"
+        android:padding="8dp"
         android:text="uhm"
-        android:background="#0091EA"
-        android:textColor="#fff"
-        android:padding="8dp"
-        android:layout_marginBottom="24dp"
-        android:id="@+id/choice3"/>
+        android:textColor="#fff" />
 
     <Button
+        android:id="@+id/choice4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="misschien"
-        android:background="#0091EA"
-        android:textColor="#fff"
-        android:padding="8dp"
         android:layout_marginBottom="24dp"
-        android:id="@+id/choice4"/>
+        android:background="#0091EA"
+        android:backgroundTint="@color/SaxGreen"
+        android:padding="8dp"
+        android:text="misschien"
+        android:textColor="#fff" />
 
 </LinearLayout>

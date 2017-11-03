@@ -11,6 +11,7 @@
         android:id="@+id/quizBtn"
         android:layout_width="125dp"
         android:layout_height="46dp"
+        android:backgroundTint="@color/SaxGreen"
         android:text="Doe de Quiz!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"

@@ -18,7 +18,7 @@ public class QuestionLibrary {
     };
     private String mChoices [][] = {
             {"Programmeur Humprey ‘Bugs’ Bogaard", "Een mot", "'Burned User Group'", "staat voor Buggered"},
-            {"Plastic", "Metaal", "Hout", "Glas"},
+            {"Plastic", "Metaal", "Hout", "Vacht, spieren en botten"},
             {"500 kb", "1 mb", "5 mb", "10 mb"},
             {"Terwijl hij werkte bij Apple", "In het kantoor van Apple", "In zijn garage", "met Steve Jobs"},
             {"the dozen eggheads", "The dirty dozen", "the 12 apostles", "Masters of the universe"},
@@ -32,7 +32,7 @@ public class QuestionLibrary {
             {"1945", "1965", "1943", "1953"}
     };
     private String mCorrectAnswers [] = {"Een mot","Hout","5 mb","In zijn garage","The dirty dozen","jou","the only way",
-            "Internet Service Provider","1 kb","Have you tried turning it off an on again?","Local Area Network",
+            "Internet Service Provider","<1 kb","Have you tried turning it off an on again?","Local Area Network",
             "Het buitenhouden van hackers","1943"};
 
 

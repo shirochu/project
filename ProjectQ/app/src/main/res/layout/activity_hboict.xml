@@ -12,13 +12,12 @@
         android:id="@+id/seBtn"
         android:layout_width="146dp"
         android:layout_height="56dp"
-        android:layout_marginTop="26dp"
+        android:layout_marginTop="62dp"
         android:backgroundTint="@color/SaxGreen"
         android:text="Software Engineering"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/hboitcTxt"
-        app:layout_constraintHorizontal_bias="0.498" />
+        app:layout_constraintTop_toBottomOf="@+id/hboitcTxt" />
 
     <Button
         android:id="@+id/itsmBtn"
@@ -26,13 +25,12 @@
         android:layout_height="55dp"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
-        android:layout_marginTop="26dp"
+        android:layout_marginTop="62dp"
         android:backgroundTint="@color/SaxGreen"
         android:text="ITSM"
         app:layout_constraintLeft_toRightOf="@+id/seBtn"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/hboitcTxt"
-        app:layout_constraintHorizontal_bias="0.291" />
+        app:layout_constraintTop_toBottomOf="@+id/hboitcTxt" />
 
     <Button
         android:id="@+id/busBtn"
@@ -40,22 +38,19 @@
         android:layout_height="54dp"
         android:layout_marginLeft="29dp"
         android:layout_marginRight="8dp"
-        android:layout_marginTop="26dp"
+        android:layout_marginTop="62dp"
         android:backgroundTint="@color/SaxGreen"
         android:text="Business"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toLeftOf="@+id/seBtn"
-        app:layout_constraintTop_toBottomOf="@+id/hboitcTxt"
-        app:layout_constraintHorizontal_bias="1.0" />
+        app:layout_constraintTop_toBottomOf="@+id/hboitcTxt" />
 
     <TextView
         android:id="@+id/hboitcTxt"
-        android:layout_width="291dp"
-        android:layout_height="245dp"
+        android:layout_width="301dp"
+        android:layout_height="217dp"
         android:text="ICT is overal en niet meer weg te denken uit onze maatschappij. Het brede vakgebied innoveert voortdurend, waardoor oplossingsgerichte specialisten met technische vaardigheden onmisbaar zijn. Gedurende de opleiding HBO-ICT word je opgeleid tot een ICT-professional, die weet wat gebruikers nodig hebben. Met jouw computer skills en sociale vaardigheden ben je een waardevolle medewerker voor vele bedrijven."
-        tools:text="ICT is overal en niet meer weg te denken uit onze maatschappij. Het brede vakgebied innoveert voortdurend, waardoor oplossingsgerichte specialisten met technische vaardigheden onmisbaar zijn. Gedurende de opleiding HBO-ICT word je opgeleid tot een ICT-professional, die weet wat gebruikers nodig hebben. Met jouw computer skills en sociale vaardigheden ben je een waardevolle medewerker voor vele bedrijven.
-
-Bij Project 1 en Project 2 vind je 2 verschillende projecten met meer informatie. Deze zijn gemaakt door 1e jaars ICT op Saxion Enschede"
+        tools:text="ICT is overal en niet meer weg te denken uit onze maatschappij. Het brede vakgebied innoveert voortdurend, waardoor oplossingsgerichte specialisten met technische vaardigheden onmisbaar zijn. Gedurende de opleiding HBO-ICT word je opgeleid tot een ICT-professional, die weet wat gebruikers nodig hebben. Met jouw computer skills en sociale vaardigheden ben je een waardevolle medewerker voor vele bedrijven."
         app:layout_constraintTop_toTopOf="parent"
         android:layout_marginTop="55dp"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -66,42 +61,11 @@ Bij Project 1 en Project 2 vind je 2 verschillende projecten met meer informatie
         android:id="@+id/saxionBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="93dp"
+        android:layout_marginTop="117dp"
         android:backgroundTint="@color/SaxGreen"
         android:text="Inschrijven"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/seBtn" />
-
-    <Button
-        android:id="@+id/Site1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="8dp"
-        android:layout_marginLeft="8dp"
-        android:layout_marginRight="8dp"
-        android:layout_marginTop="9dp"
-        android:backgroundTint="@color/SaxGreen"
-        android:text="Project1"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.372"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toLeftOf="@+id/Site2"
-        app:layout_constraintTop_toBottomOf="@+id/busBtn"
-        app:layout_constraintVertical_bias="0.113" />
-
-    <Button
-        android:id="@+id/Site2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="8dp"
-        android:layout_marginRight="59dp"
-        android:layout_marginTop="7dp"
-        android:backgroundTint="@color/SaxGreen"
-        android:text="Project2"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/itsmBtn"
-        app:layout_constraintVertical_bias="0.119" />
 
 </android.support.constraint.ConstraintLayout>
